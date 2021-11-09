@@ -4,8 +4,8 @@
 
 
 - [ci/cd GitHub Actions](https://github.com/MohammadAljadayh/auth-api/actions).
-- [herokuapp Link Main ]().
--[PULL_REQUEST ]().
+- [herokuapp Link Main ](https://authapimohammad.herokuapp.com/).
+-[PULL_REQUEST ](I push to main Dirctly).
 - [Main Repo link](https://github.com/MohammadAljadayh/auth-api).
 
 **Setup**
