@@ -5,7 +5,8 @@
 
 - [ci/cd GitHub Actions](https://github.com/MohammadAljadayh/auth-api/actions).
 - [herokuapp Link Main ](https://authapimohammad.herokuapp.com/).
--[PULL_REQUEST ](I push to main Dirctly).
+**I forget to make branch dev at the first push to githup .**
+- [PULL_REQUEST ](https://github.com/MohammadAljadayh/auth-api/pull/2).
 - [Main Repo link](https://github.com/MohammadAljadayh/auth-api).
 
 **Setup**
